@@ -16,9 +16,26 @@ def calculate_rating_stats(filename):
 
     The resulting information is printed to the console.
     """
-    pass
-    # You fill this in.  Don't forget to remove the 'pass' statement above.
+    # Open the file and read all lines
+    with open(filename, 'r') as file:
+        # Skip the header
+        
 
+        # Initialize counters
+        
+        
+        # Loop through each line in the file
+        for line in file:
+            # This print is just to show you this code works
+            print(line)
+
+            # Count the ratings
+            
+        
+        # Calculate percentages
+        
+        # Print the results
+        
 
 def main():
     # Ask the user to input the name of a file
