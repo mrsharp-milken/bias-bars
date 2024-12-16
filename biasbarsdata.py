@@ -92,9 +92,7 @@ def read_file(filename):
     >>> read_file('data/small-three.txt')
     {'average': {'W': [0, 0, 0], 'M': [1, 3, 0]}, 'best': {'W': [0, 0, 3], 'M': [1, 0, 0]}, 'not': {'W': [0, 0, 0], 'M': [2, 0, 0]}}
     """
-    """
-    You fill this in.  Don't forget to remove the 'return {}' statement below.
-    """
+    # You fill this in.  Don't forget to remove the 'return {}' statement below.
     return {}
 
 
@@ -113,9 +111,7 @@ def search_words(word_data, target):
                                     the target string
     """
     pass
-    """
-    You fill this in.  Don't forget to remove the 'pass' statement above.
-    """
+    # You fill this in.  Don't forget to remove the 'pass' statement above.
 
 
 def print_words(word_data):
