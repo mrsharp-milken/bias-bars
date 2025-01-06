@@ -35,7 +35,7 @@ def get_centered_x_coordinate(width, idx):
 
     Input:
         width (int): The width of the canvas
-        year_index (int): The index of the current label in the LABELS list
+        idx (int): The index of the current label in the LABELS list
     Returns:
         x_coordinate (float): The centered x coordinate of the horizontal line 
                               associated with the specified label.
